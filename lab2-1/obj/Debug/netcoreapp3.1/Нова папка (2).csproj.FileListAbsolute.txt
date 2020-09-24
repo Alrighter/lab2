@@ -1,0 +1,13 @@
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\bin\Debug\netcoreapp3.1\Нова папка (2).exe
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\bin\Debug\netcoreapp3.1\Нова папка (2).deps.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\bin\Debug\netcoreapp3.1\Нова папка (2).runtimeconfig.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\bin\Debug\netcoreapp3.1\Нова папка (2).runtimeconfig.dev.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\bin\Debug\netcoreapp3.1\Нова папка (2).dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\bin\Debug\netcoreapp3.1\Нова папка (2).pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).csprojAssemblyReference.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).csproj.CoreCompileInputs.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).AssemblyInfoInputs.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).AssemblyInfo.cs
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\obj\Debug\netcoreapp3.1\Нова папка (2).genruntimeconfig.cache

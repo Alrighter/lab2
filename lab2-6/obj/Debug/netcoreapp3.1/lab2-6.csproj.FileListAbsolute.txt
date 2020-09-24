@@ -1,0 +1,26 @@
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.exe
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.deps.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.runtimeconfig.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.runtimeconfig.dev.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.csprojAssemblyReference.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.csproj.CoreCompileInputs.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.AssemblyInfoInputs.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.AssemblyInfo.cs
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Нова папка (2)\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.genruntimeconfig.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.csprojAssemblyReference.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.AssemblyInfoInputs.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.AssemblyInfo.cs
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.csproj.CoreCompileInputs.cache
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.exe
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.deps.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.runtimeconfig.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.runtimeconfig.dev.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\bin\Debug\netcoreapp3.1\lab2-6.pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\Zhykhor\lab2-6\obj\Debug\netcoreapp3.1\lab2-6.genruntimeconfig.cache
